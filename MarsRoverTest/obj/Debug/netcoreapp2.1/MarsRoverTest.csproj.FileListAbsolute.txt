@@ -1,0 +1,17 @@
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csprojAssemblyReference.cache
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csproj.CoreCompileInputs.cache
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.AssemblyInfoInputs.cache
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.AssemblyInfo.cs
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.deps.json
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.runtimeconfig.json
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.runtimeconfig.dev.json
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.dll
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverTest.pdb
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverNetCore.dll
+C:\MyWorkSpace\MarsRoverTest\bin\Debug\netcoreapp2.1\MarsRoverNetCore.pdb
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.csproj.CopyComplete
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.dll
+C:\MyWorkSpace\MarsRoverTest\obj\Debug\netcoreapp2.1\MarsRoverTest.pdb
