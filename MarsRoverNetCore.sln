@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverNetCore", "MarsRoverNetCore.csproj", "{369DBE2B-4F4A-42B0-856E-DA24A7EFBC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverTest", "..\MarsRoverTest\MarsRoverTest.csproj", "{308392BB-2595-4E45-9B19-98765B429CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369DBE2B-4F4A-42B0-856E-DA24A7EFBC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369DBE2B-4F4A-42B0-856E-DA24A7EFBC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369DBE2B-4F4A-42B0-856E-DA24A7EFBC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369DBE2B-4F4A-42B0-856E-DA24A7EFBC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308392BB-2595-4E45-9B19-98765B429CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308392BB-2595-4E45-9B19-98765B429CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308392BB-2595-4E45-9B19-98765B429CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308392BB-2595-4E45-9B19-98765B429CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75BB685-F0D8-47A5-94CB-D07840D3F72A}
+	EndGlobalSection
+EndGlobal
