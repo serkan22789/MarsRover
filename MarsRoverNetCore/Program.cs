@@ -7,7 +7,6 @@ namespace MarsRoverNetCore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
             CommandCenter commandCenter = new CommandCenter();
             commandCenter.Execute();
             

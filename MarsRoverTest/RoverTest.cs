@@ -33,5 +33,14 @@ namespace MarsRoverTest
             Rover rover = new Rover(new Point(3, 3, "E"));
             Plateau.AddRover(rover, "AMMRMMRMRRM");
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(System.ArgumentException))]
+        public void IncorrectDirection()
+        {
+            Plateau Plateau = new Plateau(5, 5);
+            Rover rover = new Rover(new Point(3, 3, "K"));
+            Plateau.AddRover(rover, "MMRMMRMRRM");
+        }
     }
 }

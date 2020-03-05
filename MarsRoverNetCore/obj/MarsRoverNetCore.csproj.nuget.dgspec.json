@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {}
+    "D:\\Workspaces\\Git\\MarsRover\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {}
   },
   "projects": {
-    "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
+    "D:\\Workspaces\\Git\\MarsRover\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+        "projectUniqueName": "D:\\Workspaces\\Git\\MarsRover\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
         "projectName": "MarsRoverNetCore",
-        "projectPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
-        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-        "outputPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\obj\\",
+        "projectPath": "D:\\Workspaces\\Git\\MarsRover\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+        "packagesPath": "C:\\Users\\Serkan\\.nuget\\packages\\",
+        "outputPath": "D:\\Workspaces\\Git\\MarsRover\\MarsRover\\MarsRoverNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -42,16 +44,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

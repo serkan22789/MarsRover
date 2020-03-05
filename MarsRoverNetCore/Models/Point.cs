@@ -14,8 +14,22 @@ namespace MarsRoverNetCore.Models
         {
             X = aX;
             Y = aY;
-            Direction = (Directions)Enum.Parse(typeof(Directions), aDirection);
+            SetDirection(aDirection);
+
         }
+
+        private void SetDirection(string aDirection)
+        {
+            try
+            {
+                Direction = (Directions)Enum.Parse(typeof(Directions), aDirection);
+            }
+            catch (Exception)
+            {
+                ExceptionHelper.ShowError(string.Format("Invalid Direction: {0}", aDirection));
+            }
+        }
+
         public void Move()
         {
             switch (Direction)

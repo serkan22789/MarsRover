@@ -20,3 +20,13 @@ C:\MyWorkSpace\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCo
 C:\MyWorkSpace\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.AssemblyInfo.cs
 C:\MyWorkSpace\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.dll
 C:\MyWorkSpace\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.pdb
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\bin\Debug\netcoreapp2.1\MarsRoverNetCore.deps.json
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\bin\Debug\netcoreapp2.1\MarsRoverNetCore.runtimeconfig.json
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\bin\Debug\netcoreapp2.1\MarsRoverNetCore.runtimeconfig.dev.json
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\bin\Debug\netcoreapp2.1\MarsRoverNetCore.dll
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\bin\Debug\netcoreapp2.1\MarsRoverNetCore.pdb
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.csprojAssemblyReference.cache
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.AssemblyInfoInputs.cache
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.AssemblyInfo.cs
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.dll
+D:\Workspaces\Git\MarsRover\MarsRover\MarsRoverNetCore\obj\Debug\netcoreapp2.1\MarsRoverNetCore.pdb

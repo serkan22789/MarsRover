@@ -8,15 +8,15 @@ namespace MarsRoverNetCore.Models
     {
         public Plateau(int x, int y)
         {
-            size = new Size { Width = x, Height = y };
+            size = new Size (x,y);
         }
         private Size size { get; set; }
         private List<Rover> rovers = new List<Rover>();
 
         public bool IsValid(Point aPoint)
         {
-            var isValidX = aPoint.X >= 0 && aPoint.X <= size.Width;
-            var isValidY = aPoint.Y >= 0 && aPoint.Y <= size.Height;
+            var isValidX = aPoint.X >= 0 && aPoint.X <= size.GetWidth();
+            var isValidY = aPoint.Y >= 0 && aPoint.Y <= size.GetHeight();
             return isValidX && isValidY;
         }
         public void AddRover(Rover rover, string commands)
@@ -40,7 +40,8 @@ namespace MarsRoverNetCore.Models
                         }
                         break;
                     default:
-                        throw new ArgumentException(string.Format("Invalid value: {0}", commands[i]));
+                        ExceptionHelper.ShowError(string.Format("Invalid command value: {0}", commands[i]));
+                        break;
                 }
             }
             rovers.Add(rover);

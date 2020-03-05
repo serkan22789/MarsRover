@@ -5,14 +5,24 @@ using System.Text;
 namespace MarsRoverNetCore.Models
 {
     public struct Size
-    {
-        public int Width;
-        public int Height;
-
+    {       
         public Size(int aWidth, int aHeight)
         {
-            Width = aWidth;
-            Height = aHeight;
+            width = aWidth;
+            height = aHeight;
         }
+
+        private int width;
+        private int height;
+
+        public int GetWidth()
+        {
+            return width;
+        }
+        public int GetHeight()
+        {
+            return height;
+        }
+            
     }
 }
