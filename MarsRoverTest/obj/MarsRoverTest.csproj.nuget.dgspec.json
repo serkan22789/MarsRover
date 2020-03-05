@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyWorkSpace\\MarsRoverTest\\MarsRoverTest.csproj": {}
+    "C:\\MyWorkSpace\\MarsRover\\MarsRoverTest\\MarsRoverTest.csproj": {}
   },
   "projects": {
-    "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
+    "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+        "projectUniqueName": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
         "projectName": "MarsRoverNetCore",
-        "projectPath": "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+        "projectPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
         "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-        "outputPath": "C:\\MyWorkSpace\\MarsRoverNetCore\\obj\\",
+        "outputPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,14 +55,14 @@
         }
       }
     },
-    "C:\\MyWorkSpace\\MarsRoverTest\\MarsRoverTest.csproj": {
+    "C:\\MyWorkSpace\\MarsRover\\MarsRoverTest\\MarsRoverTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyWorkSpace\\MarsRoverTest\\MarsRoverTest.csproj",
+        "projectUniqueName": "C:\\MyWorkSpace\\MarsRover\\MarsRoverTest\\MarsRoverTest.csproj",
         "projectName": "MarsRoverTest",
-        "projectPath": "C:\\MyWorkSpace\\MarsRoverTest\\MarsRoverTest.csproj",
+        "projectPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverTest\\MarsRoverTest.csproj",
         "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-        "outputPath": "C:\\MyWorkSpace\\MarsRoverTest\\obj\\",
+        "outputPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,8 +81,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
-                "projectPath": "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj"
+              "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj": {
+                "projectPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj"
               }
             }
           }

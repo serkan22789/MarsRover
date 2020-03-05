@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+      "projectUniqueName": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
       "projectName": "MarsRoverNetCore",
-      "projectPath": "C:\\MyWorkSpace\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
+      "projectPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\MarsRoverNetCore.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "C:\\MyWorkSpace\\MarsRoverNetCore\\obj\\",
+      "outputPath": "C:\\MyWorkSpace\\MarsRover\\MarsRoverNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
