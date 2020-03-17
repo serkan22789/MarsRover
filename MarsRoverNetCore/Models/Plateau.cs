@@ -32,7 +32,7 @@ namespace MarsRoverNetCore.Models
                         rover.TurnRight();
                         break;
                     case 'M':
-                        Point newPoint = rover.GetPoint();
+                        Point newPoint = new Point(rover.GetPoint());
                         newPoint.Move();
                         if (IsValid(newPoint))
                         {

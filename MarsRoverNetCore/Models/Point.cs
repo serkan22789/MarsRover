@@ -17,6 +17,13 @@ namespace MarsRoverNetCore.Models
             SetDirection(aDirection);
 
         }
+        public Point(Point aPoint)
+        {
+            X = aPoint.X;
+            Y = aPoint.Y;
+            Direction = aPoint.Direction;
+
+        }
 
         private void SetDirection(string aDirection)
         {

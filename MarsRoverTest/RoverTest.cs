@@ -42,5 +42,14 @@ namespace MarsRoverTest
             Rover rover = new Rover(new Point(3, 3, "K"));
             Plateau.AddRover(rover, "MMRMMRMRRM");
         }
+
+        [TestMethod]
+        public void CheckBorderCrossing()
+        {
+            Plateau Plateau = new Plateau(2, 2);
+            Rover rover = new Rover(new Point(0, 0, "W"));
+            Plateau.AddRover(rover, "MMM");
+            Assert.AreEqual(rover.ToString(), "0 0 W");
+        }
     }
 }
